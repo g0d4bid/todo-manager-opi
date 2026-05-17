@@ -6,3 +6,8 @@ venv/
 *.sqlite3
 .idea/
 .vscode/
+scratch*.py
+easy*.py
+*.xlsx
+*.csv
+*.txt
